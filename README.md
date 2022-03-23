@@ -4,7 +4,7 @@
 
 
 <div align="center"> 
-  <img src="https://static.platzi.com/media/achievements/badge-curso-practico-frontend-developer-d28c2eb0-cd3e-4951-bb96-5f1bcab2add5.png" width="0">
+  <img src="https://static.platzi.com/media/achievements/badge-curso-practico-frontend-developer-d28c2eb0-cd3e-4951-bb96-5f1bcab2add5.png" width="70">
 </div>
 
 
